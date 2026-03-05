@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1772713637" />
+    <testcase name="dff_simple_test" classname="test_simple_dff_hidden" file="/home/suraj/phinitylabs_trial/tests/test_simple_dff_hidden.py" lineno="15" time="0.0009887218475341797" sim_time_ns="115000" ratio_time="116311782.01109235" />
+  </testsuite>
+</testsuites>
